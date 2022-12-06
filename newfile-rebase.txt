@@ -1,2 +1,3 @@
 testing rebase
 second line
+third line
